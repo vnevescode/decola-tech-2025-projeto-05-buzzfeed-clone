@@ -1,0 +1,33 @@
+{
+  "title": "Descubra seu estilo ideal! 👗👕",
+  "questions": [
+    {
+      "id": 1,
+      "question": "🧥 Qual roupa você ama usar?",
+      "options": [
+        { "id": 1, "name": "Tudo preto, básico e chique 🖤", "alias": "A" },
+        { "id": 2, "name": "Cores vivas e estampas 🦩", "alias": "B" }
+      ]
+    },
+    {
+      "id": 2,
+      "question": "👟 Qual calçado preferido?",
+      "options": [
+        { "id": 1, "name": "Tênis confortável 👟", "alias": "B" },
+        { "id": 2, "name": "Botas de atitude 👢", "alias": "A" }
+      ]
+    },
+    {
+      "id": 3,
+      "question": "💄 Você curte se arrumar?",
+      "options": [
+        { "id": 1, "name": "Sim! Amo maquiagem e acessórios 💅", "alias": "A" },
+        { "id": 2, "name": "Prefiro algo natural 😌", "alias": "B" }
+      ]
+    }
+  ],
+  "results": {
+    "A": "🖤 Seu estilo é urbano e ousado — você arrasa com atitude!",
+    "B": "🌼 Seu estilo é leve e criativo — você brilha com simplicidade!"
+  }
+}

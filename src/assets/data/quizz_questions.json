@@ -1,0 +1,55 @@
+{
+  "title": "Você seria um Herói 🦸 ou Vilão 🦹?",
+  "questions": [
+    {
+      "id": 1,
+      "question": "🧠 Qual super poder você escolheria?",
+      "options": [
+        { "id": 1, "name": "Raios-Lasers ⚡", "alias": "A" },
+        { "id": 2, "name": "Voar pelos céus ✈️", "alias": "B" },
+        { "id": 3, "name": "Explodir coisas 💥", "alias": "A" },
+        { "id": 4, "name": "Curar feridas 💊", "alias": "B" }
+      ]
+    },
+    {
+      "id": 2,
+      "question": "🧍‍♂️ Quem você salvaria primeiro?",
+      "options": [
+        { "id": 1, "name": "Crianças 👶", "alias": "B" },
+        { "id": 2, "name": "Seu animal de estimação 🐶", "alias": "A" },
+        { "id": 3, "name": "Seu melhor amigo(a) 👯", "alias": "B" },
+        { "id": 4, "name": "Você mesmo 😈", "alias": "A" }
+      ]
+    },
+    {
+      "id": 3,
+      "question": "🏙️ O que você faria com seus poderes?",
+      "options": [
+        { "id": 1, "name": "Dominar o mundo 🌍", "alias": "A" },
+        { "id": 2, "name": "Salvar o planeta 🌱", "alias": "B" },
+        { "id": 3, "name": "Vingar-se dos seus inimigos 😤", "alias": "A" },
+        { "id": 4, "name": "Ajudar comunidades carentes 🏚️", "alias": "B" }
+      ]
+    },
+    {
+      "id": 4,
+      "question": "🧥 Qual o seu estilo de traje?",
+      "options": [
+        { "id": 1, "name": "Preto e vermelho com capa 🦹", "alias": "A" },
+        { "id": 2, "name": "Colorido e cheio de brilho ✨", "alias": "B" }
+      ]
+    },
+    {
+      "id": 5,
+      "question": "📣 Como as pessoas te chamariam?",
+      "options": [
+        { "id": 1, "name": "O Terrível 😈", "alias": "A" },
+        { "id": 2, "name": "O Protetor 💖", "alias": "B" }
+      ]
+    }
+  ],
+  "results": {
+    "A": "😈 Você muito provavelmente seria um super vilão com sede de poder!",
+    "B": "🦸 Você seria um verdadeiro herói pronto para salvar o mundo!"
+  }
+}
