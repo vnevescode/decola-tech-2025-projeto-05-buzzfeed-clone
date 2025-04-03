@@ -1,0 +1,33 @@
+{
+  "title": "Qual signo combina com sua vibe? 🔮",
+  "questions": [
+    {
+      "id": 1,
+      "question": "🌅 Qual período do dia você prefere?",
+      "options": [
+        { "id": 1, "name": "Manhã com energia! ☀️", "alias": "A" },
+        { "id": 2, "name": "Noite tranquila 🌙", "alias": "B" }
+      ]
+    },
+    {
+      "id": 2,
+      "question": "👥 Como você reage a conflitos?",
+      "options": [
+        { "id": 1, "name": "Resolvo na hora! 🔥", "alias": "A" },
+        { "id": 2, "name": "Evito brigas sempre 😌", "alias": "B" }
+      ]
+    },
+    {
+      "id": 3,
+      "question": "❤️ O que valoriza em uma amizade?",
+      "options": [
+        { "id": 1, "name": "Lealdade acima de tudo 🐺", "alias": "B" },
+        { "id": 2, "name": "Diversão e aventura 😜", "alias": "A" }
+      ]
+    }
+  ],
+  "results": {
+    "A": "♈ Você tem a energia de Áries — impulsivo, vibrante e cheio de atitude!",
+    "B": "♓ Você tem a vibe de Peixes — sonhador(a), leal e sensível!"
+  }
+}

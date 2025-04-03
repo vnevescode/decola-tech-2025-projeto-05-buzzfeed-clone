@@ -1,0 +1,33 @@
+{
+  "title": "Qual Celebridade é mais parecida com você? 🎤🎬",
+  "questions": [
+    {
+      "id": 1,
+      "question": "🎉 Como você curte festas?",
+      "options": [
+        { "id": 1, "name": "No centro das atenções 💃", "alias": "A" },
+        { "id": 2, "name": "De boa com os amigos ✨", "alias": "B" }
+      ]
+    },
+    {
+      "id": 2,
+      "question": "📸 Como você se sente ao tirar fotos?",
+      "options": [
+        { "id": 1, "name": "Amo! Sempre um close 🔥", "alias": "A" },
+        { "id": 2, "name": "Prefiro ficar fora da câmera 😅", "alias": "B" }
+      ]
+    },
+    {
+      "id": 3,
+      "question": "🧑‍🎤 Qual tipo de fama você teria?",
+      "options": [
+        { "id": 1, "name": "Popstar internacional 🌍", "alias": "A" },
+        { "id": 2, "name": "Ídolo cult e discreto 🎭", "alias": "B" }
+      ]
+    }
+  ],
+  "results": {
+    "A": "🎤 Você é como a Beyoncé: autêntico, poderoso e cheio de estilo!",
+    "B": "🎬 Você é como o Keanu Reeves: reservado, respeitado e cheio de classe!"
+  }
+}

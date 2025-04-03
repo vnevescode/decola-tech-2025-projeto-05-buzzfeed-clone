@@ -1,0 +1,33 @@
+{
+  "title": "Qual tipo de nerd você é? 👾💻",
+  "questions": [
+    {
+      "id": 1,
+      "question": "🧠 Como você gosta de aprender?",
+      "options": [
+        { "id": 1, "name": "Codando na prática 💻", "alias": "A" },
+        { "id": 2, "name": "Assistindo vídeos e tutoriais 📹", "alias": "B" }
+      ]
+    },
+    {
+      "id": 2,
+      "question": "🎮 O que você prefere fazer no tempo livre?",
+      "options": [
+        { "id": 1, "name": "Jogar online com amigos 🎮", "alias": "B" },
+        { "id": 2, "name": "Criar projetos e automações 🤖", "alias": "A" }
+      ]
+    },
+    {
+      "id": 3,
+      "question": "📱 Qual tecnologia não vive sem?",
+      "options": [
+        { "id": 1, "name": "Celular sempre! 📱", "alias": "B" },
+        { "id": 2, "name": "Notebook e terminal aberto! 🖥️", "alias": "A" }
+      ]
+    }
+  ],
+  "results": {
+    "A": "🤓 Você é o dev raiz — ama código, terminal e resolver bugs!",
+    "B": "🎮 Você é o tech gamer — sempre conectado e pronto pra diversão!"
+  }
+}

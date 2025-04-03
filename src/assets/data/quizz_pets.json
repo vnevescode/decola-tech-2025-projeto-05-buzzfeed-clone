@@ -1,0 +1,33 @@
+{
+  "title": "Qual Pet combina com você? 🐾",
+  "questions": [
+    {
+      "id": 1,
+      "question": "📅 Como você prefere passar seu fim de semana?",
+      "options": [
+        { "id": 1, "name": "Dormindo até tarde 💤", "alias": "A" },
+        { "id": 2, "name": "Explorando a cidade 🚶", "alias": "B" }
+      ]
+    },
+    {
+      "id": 2,
+      "question": "🍽️ Qual seu estilo de comida?",
+      "options": [
+        { "id": 1, "name": "Comida caseira 🥘", "alias": "A" },
+        { "id": 2, "name": "Snacks e lanches rápidos 🍟", "alias": "B" }
+      ]
+    },
+    {
+      "id": 3,
+      "question": "💬 Como você reage a um estranho?",
+      "options": [
+        { "id": 1, "name": "Fico na minha 😼", "alias": "A" },
+        { "id": 2, "name": "Faço amizade na hora 🐶", "alias": "B" }
+      ]
+    }
+  ],
+  "results": {
+    "A": "🐱 Você é um gato! Independente, observador e cheio de charme.",
+    "B": "🐶 Você é um cachorro! Leal, carismático e sempre pronto para brincar!"
+  }
+}

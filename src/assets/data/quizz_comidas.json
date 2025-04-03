@@ -1,0 +1,33 @@
+{
+  "title": "Qual tipo de comida é a sua cara? 🍕🍣",
+  "questions": [
+    {
+      "id": 1,
+      "question": "🕐 Que horas você mais sente fome?",
+      "options": [
+        { "id": 1, "name": "De manhã 🌅", "alias": "A" },
+        { "id": 2, "name": "De madrugada 🌙", "alias": "B" }
+      ]
+    },
+    {
+      "id": 2,
+      "question": "👨‍🍳 O que você prefere comer?",
+      "options": [
+        { "id": 1, "name": "Algo rápido e prático 🍔", "alias": "B" },
+        { "id": 2, "name": "Um prato bem elaborado 🍝", "alias": "A" }
+      ]
+    },
+    {
+      "id": 3,
+      "question": "🌎 Escolha uma culinária:",
+      "options": [
+        { "id": 1, "name": "Italiana 🇮🇹", "alias": "A" },
+        { "id": 2, "name": "Americana 🇺🇸", "alias": "B" }
+      ]
+    }
+  ],
+  "results": {
+    "A": "🍝 Você é uma lasanha sofisticada, cheia de camadas e sabor!",
+    "B": "🍕 Você é uma pizza deliciosa, rápida e sempre agrada todo mundo!"
+  }
+}
